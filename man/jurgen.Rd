@@ -1,7 +1,7 @@
 \name{obs2p1}
 \alias{obs2p1}
-\title{Observations 2.1}
+\title{Observations 2.1 from Jurgen's Linear Regression}
 \description{
-Prints 'Hello, world!'.
+  A Univariate Linear Regression Table - With only one Regressor
 }
 
