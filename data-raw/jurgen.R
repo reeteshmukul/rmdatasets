@@ -19,4 +19,3 @@ obs2p1 <-
 devtools::use_data(obs2p1)
 
 usethis::use_data(obs2p1, overwrite = TRUE)
-
